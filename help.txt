@@ -1,0 +1,5 @@
+--help -> Lists all commands for quick reference
+
+-setup -> Setup your browser destination
+-chromeLocation -> Tells Location of Chrome
+-appsLocation -> Tells information about installed apps on PC - helps to find different browsers
