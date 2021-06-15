@@ -7,3 +7,6 @@ Your browser may be already set up, in case the program tells to set it up, see 
 
 # Operating Systems
 Works only for Windows
+
+# Note
+It will create some additional text files to work
